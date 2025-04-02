@@ -1,6 +1,6 @@
 package chapter11.program1;
 
-public class Circle  extends Shape {
+public class Circle extends Shape {
 	
 	//円の中心
 	private Point center;
